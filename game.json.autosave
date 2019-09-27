@@ -1,0 +1,4400 @@
+{
+  "firstLayout": "",
+  "gdVersion": {
+    "build": 98,
+    "major": 4,
+    "minor": 0,
+    "revision": 0
+  },
+  "properties": {
+    "adMobAppId": "",
+    "folderProject": false,
+    "linuxExecutableFilename": "",
+    "macExecutableFilename": "",
+    "orientation": "landscape",
+    "packageName": "com.example.gamename",
+    "projectFile": "C:\\Users\\sara\\Desktop\\Quik\\game.json",
+    "scaleMode": "linear",
+    "sizeOnStartupMode": "adaptWidth",
+    "useExternalSourceFiles": false,
+    "version": "1.0.0",
+    "winExecutableFilename": "",
+    "winExecutableIconFile": "",
+    "name": "Quik",
+    "author": "",
+    "windowWidth": 800,
+    "windowHeight": 600,
+    "latestCompilationDirectory": "",
+    "maxFPS": 60,
+    "minFPS": 20,
+    "verticalSync": false,
+    "platformSpecificAssets": {},
+    "loadingScreen": {
+      "showGDevelopSplash": true
+    },
+    "extensions": [
+      {
+        "name": "BuiltinObject"
+      },
+      {
+        "name": "BuiltinAudio"
+      },
+      {
+        "name": "BuiltinVariables"
+      },
+      {
+        "name": "BuiltinTime"
+      },
+      {
+        "name": "BuiltinMouse"
+      },
+      {
+        "name": "BuiltinKeyboard"
+      },
+      {
+        "name": "BuiltinJoystick"
+      },
+      {
+        "name": "BuiltinCamera"
+      },
+      {
+        "name": "BuiltinWindow"
+      },
+      {
+        "name": "BuiltinFile"
+      },
+      {
+        "name": "BuiltinNetwork"
+      },
+      {
+        "name": "BuiltinScene"
+      },
+      {
+        "name": "BuiltinAdvanced"
+      },
+      {
+        "name": "Sprite"
+      },
+      {
+        "name": "BuiltinCommonInstructions"
+      },
+      {
+        "name": "BuiltinCommonConversions"
+      },
+      {
+        "name": "BuiltinStringInstructions"
+      },
+      {
+        "name": "BuiltinMathematicalTools"
+      },
+      {
+        "name": "BuiltinExternalLayouts"
+      }
+    ],
+    "platforms": [
+      {
+        "name": "GDevelop JS platform"
+      }
+    ],
+    "currentPlatform": "GDevelop JS platform"
+  },
+  "resources": {
+    "resources": [
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Idle__000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Idle__000.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Idle__001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Idle__001.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Idle__002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Idle__002.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Idle__003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Idle__003.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Idle__004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Idle__004.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Idle__005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Idle__005.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Idle__006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Idle__006.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Idle__007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Idle__007.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Idle__008.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Idle__008.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Idle__009.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Idle__009.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Run__000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Run__000.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Run__001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Run__001.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Run__002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Run__002.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Run__003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Run__003.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Run__004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Run__004.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Run__005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Run__005.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Run__006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Run__006.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Run__007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Run__007.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Run__008.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Run__008.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Run__009.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Run__009.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Jump__000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Jump__000.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Jump__001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Jump__001.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Jump__002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Jump__002.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Jump__003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Jump__003.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Jump__004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Jump__004.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Jump__005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Jump__005.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Jump__006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Jump__006.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Jump__007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Jump__007.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Jump__008.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Jump__008.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Jump__009.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Jump__009.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/telis/png/Tiles/Tile (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\telis\\png\\Tiles\\Tile (1).png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/telis/png/Tiles/Tile (2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\telis\\png\\Tiles\\Tile (2).png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/telis/png/Tiles/Tile (3).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\telis\\png\\Tiles\\Tile (3).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/telis/png/Tiles/Tile (4).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\telis\\png\\Tiles\\Tile (4).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/telis/png/Tiles/Tile (5).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\telis\\png\\Tiles\\Tile (5).png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/telis/png/Tiles/Tile (6).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\telis\\png\\Tiles\\Tile (6).png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/telis/png/Tiles/Tile (14).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\telis\\png\\Tiles\\Tile (14).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/telis/png/Tiles/Tile (15).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\telis\\png\\Tiles\\Tile (15).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/telis/png/Tiles/Tile (16).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\telis\\png\\Tiles\\Tile (16).png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/telis/png/BG.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\telis\\png\\BG.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "NewFile.wav",
+        "kind": "audio",
+        "metadata": "{\"jfxr\":{\"data\":\"{\\\"_version\\\":1,\\\"_name\\\":\\\"Pickup/coin 6\\\",\\\"_locked\\\":[],\\\"sampleRate\\\":44100,\\\"attack\\\":0,\\\"sustain\\\":0.04,\\\"sustainPunch\\\":0,\\\"decay\\\":0.34,\\\"tremoloDepth\\\":0,\\\"tremoloFrequency\\\":10,\\\"frequency\\\":400,\\\"frequencySweep\\\":0,\\\"frequencyDeltaSweep\\\":0,\\\"repeatFrequency\\\":0,\\\"frequencyJump1Onset\\\":30,\\\"frequencyJump1Amount\\\":60,\\\"frequencyJump2Onset\\\":66,\\\"frequencyJump2Amount\\\":0,\\\"harmonics\\\":0,\\\"harmonicsFalloff\\\":0.5,\\\"waveform\\\":\\\"whistle\\\",\\\"interpolateNoise\\\":true,\\\"vibratoDepth\\\":0,\\\"vibratoFrequency\\\":10,\\\"squareDuty\\\":50,\\\"squareDutySweep\\\":0,\\\"flangerOffset\\\":0,\\\"flangerOffsetSweep\\\":0,\\\"bitCrush\\\":16,\\\"bitCrushSweep\\\":0,\\\"lowPassCutoff\\\":22050,\\\"lowPassCutoffSweep\\\":0,\\\"highPassCutoff\\\":0,\\\"highPassCutoffSweep\\\":0,\\\"compression\\\":1,\\\"normalization\\\":true,\\\"amplification\\\":100}\",\"name\":\"NewFile\"}}",
+        "name": "NewFile.wav",
+        "userAdded": true
+      },
+      {
+        "file": "Coin.wav",
+        "kind": "audio",
+        "metadata": "{\"jfxr\":{\"data\":\"{\\\"_version\\\":1,\\\"_name\\\":\\\"Pickup/coin 21\\\",\\\"_locked\\\":[],\\\"sampleRate\\\":44100,\\\"attack\\\":0,\\\"sustain\\\":0.08,\\\"sustainPunch\\\":0,\\\"decay\\\":0.39,\\\"tremoloDepth\\\":0,\\\"tremoloFrequency\\\":10,\\\"frequency\\\":300,\\\"frequencySweep\\\":0,\\\"frequencyDeltaSweep\\\":0,\\\"repeatFrequency\\\":0,\\\"frequencyJump1Onset\\\":33,\\\"frequencyJump1Amount\\\":0,\\\"frequencyJump2Onset\\\":66,\\\"frequencyJump2Amount\\\":0,\\\"harmonics\\\":0,\\\"harmonicsFalloff\\\":0.5,\\\"waveform\\\":\\\"whistle\\\",\\\"interpolateNoise\\\":true,\\\"vibratoDepth\\\":0,\\\"vibratoFrequency\\\":10,\\\"squareDuty\\\":20,\\\"squareDutySweep\\\":-10,\\\"flangerOffset\\\":0,\\\"flangerOffsetSweep\\\":0,\\\"bitCrush\\\":16,\\\"bitCrushSweep\\\":0,\\\"lowPassCutoff\\\":22050,\\\"lowPassCutoffSweep\\\":0,\\\"highPassCutoff\\\":0,\\\"highPassCutoffSweep\\\":0,\\\"compression\\\":1,\\\"normalization\\\":true,\\\"amplification\\\":100}\",\"name\":\"Coin\"}}",
+        "name": "Coin.wav",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Attack__000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Attack__000.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Attack__001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Attack__001.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Attack__002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Attack__002.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Attack__003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Attack__003.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Attack__004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Attack__004.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Attack__005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Attack__005.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Attack__006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Attack__006.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Attack__007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Attack__007.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Attack__008.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Attack__008.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Attack__009.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Attack__009.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Slide__000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Slide__000.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Slide__001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Slide__001.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Slide__002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Slide__002.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Slide__003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Slide__003.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Slide__004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Slide__004.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Slide__005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Slide__005.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Slide__006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Slide__006.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Slide__007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Slide__007.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Slide__008.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Slide__008.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/png/Slide__009.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\png\\Slide__009.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "pulo.wav",
+        "kind": "audio",
+        "metadata": "{\"jfxr\":{\"data\":\"{\\\"_version\\\":1,\\\"_name\\\":\\\"Jump 4\\\",\\\"_locked\\\":[],\\\"sampleRate\\\":44100,\\\"attack\\\":0,\\\"sustain\\\":0.08,\\\"sustainPunch\\\":0,\\\"decay\\\":0.29,\\\"tremoloDepth\\\":0,\\\"tremoloFrequency\\\":10,\\\"frequency\\\":600,\\\"frequencySweep\\\":500,\\\"frequencyDeltaSweep\\\":0,\\\"repeatFrequency\\\":0,\\\"frequencyJump1Onset\\\":33,\\\"frequencyJump1Amount\\\":0,\\\"frequencyJump2Onset\\\":66,\\\"frequencyJump2Amount\\\":0,\\\"harmonics\\\":0,\\\"harmonicsFalloff\\\":0.5,\\\"waveform\\\":\\\"sine\\\",\\\"interpolateNoise\\\":true,\\\"vibratoDepth\\\":0,\\\"vibratoFrequency\\\":10,\\\"squareDuty\\\":5,\\\"squareDutySweep\\\":-5,\\\"flangerOffset\\\":0,\\\"flangerOffsetSweep\\\":0,\\\"bitCrush\\\":16,\\\"bitCrushSweep\\\":0,\\\"lowPassCutoff\\\":22050,\\\"lowPassCutoffSweep\\\":0,\\\"highPassCutoff\\\":3400,\\\"highPassCutoffSweep\\\":0,\\\"compression\\\":1,\\\"normalization\\\":true,\\\"amplification\\\":100}\",\"name\":\"pulo\"}}",
+        "name": "pulo.wav",
+        "userAdded": true
+      },
+      {
+        "file": "rasteira.wav",
+        "kind": "audio",
+        "metadata": "{\"jfxr\":{\"data\":\"{\\\"_version\\\":1,\\\"_name\\\":\\\"Jump 11\\\",\\\"_locked\\\":[],\\\"sampleRate\\\":44100,\\\"attack\\\":0,\\\"sustain\\\":0.05,\\\"sustainPunch\\\":0,\\\"decay\\\":0.31,\\\"tremoloDepth\\\":0,\\\"tremoloFrequency\\\":10,\\\"frequency\\\":600,\\\"frequencySweep\\\":900,\\\"frequencyDeltaSweep\\\":0,\\\"repeatFrequency\\\":0,\\\"frequencyJump1Onset\\\":33,\\\"frequencyJump1Amount\\\":0,\\\"frequencyJump2Onset\\\":66,\\\"frequencyJump2Amount\\\":0,\\\"harmonics\\\":0,\\\"harmonicsFalloff\\\":0.5,\\\"waveform\\\":\\\"sine\\\",\\\"interpolateNoise\\\":true,\\\"vibratoDepth\\\":0,\\\"vibratoFrequency\\\":10,\\\"squareDuty\\\":100,\\\"squareDutySweep\\\":-40,\\\"flangerOffset\\\":7,\\\"flangerOffsetSweep\\\":-4,\\\"bitCrush\\\":16,\\\"bitCrushSweep\\\":0,\\\"lowPassCutoff\\\":22050,\\\"lowPassCutoffSweep\\\":0,\\\"highPassCutoff\\\":3400,\\\"highPassCutoffSweep\\\":0,\\\"compression\\\":1,\\\"normalization\\\":true,\\\"amplification\\\":100}\",\"name\":\"rasteira\"}}",
+        "name": "rasteira.wav",
+        "userAdded": true
+      }
+    ],
+    "resourceFolders": []
+  },
+  "objects": [],
+  "objectsGroups": [],
+  "variables": [],
+  "layouts": [
+    {
+      "b": 233,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Cena1",
+      "name": "Cena1",
+      "oglFOV": 90,
+      "oglZFar": 500,
+      "oglZNear": 1,
+      "r": 190,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "Cena1",
+      "v": 246,
+      "uiSettings": {
+        "grid": false,
+        "gridB": 255,
+        "gridG": 180,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridR": 158,
+        "gridWidth": 32,
+        "snap": false,
+        "windowMask": false,
+        "zoomFactor": 0.082
+      },
+      "objectsGroups": [],
+      "variables": [
+        {
+          "name": "Score",
+          "value": "0"
+        }
+      ],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 89,
+          "layer": "Game",
+          "locked": false,
+          "name": "Quik",
+          "width": 74,
+          "x": 86,
+          "y": 113,
+          "zOrder": 200,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 1235,
+          "layer": "Game",
+          "locked": false,
+          "name": "TileBasico",
+          "width": 32,
+          "x": 12229,
+          "y": -889,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "Game",
+          "locked": false,
+          "name": "TileBasico",
+          "width": 12242,
+          "x": -18,
+          "y": 299,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 124,
+          "layer": "Game",
+          "locked": false,
+          "name": "Tile1",
+          "width": 125,
+          "x": 22,
+          "y": 208,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 134,
+          "layer": "Game",
+          "locked": false,
+          "name": "Tile2",
+          "width": 11994,
+          "x": 142,
+          "y": 208,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 202,
+          "layer": "Game",
+          "locked": false,
+          "name": "tile4",
+          "width": 120,
+          "x": 24,
+          "y": 332,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 201,
+          "layer": "Game",
+          "locked": false,
+          "name": "Tile5",
+          "width": 12077,
+          "x": 130,
+          "y": 330,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 1372,
+          "layer": "Game",
+          "locked": false,
+          "name": "Tile5",
+          "width": 604,
+          "x": -566,
+          "y": -808,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 3584,
+          "layer": "Game",
+          "locked": false,
+          "name": "Background",
+          "width": 17786,
+          "x": -548,
+          "y": -2833,
+          "zOrder": -2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "TileFlutuante1",
+          "width": 0,
+          "x": 796,
+          "y": -31,
+          "zOrder": 101,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "TileFlutuante3",
+          "width": 0,
+          "x": 362,
+          "y": -420,
+          "zOrder": 103,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "TileFlutuante1",
+          "width": 0,
+          "x": 859,
+          "y": -375,
+          "zOrder": 101,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "TileFlutuante2",
+          "width": 0,
+          "x": 513,
+          "y": -217,
+          "zOrder": 102,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "TileFlutuante3",
+          "width": 0,
+          "x": 554,
+          "y": 102,
+          "zOrder": 103,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "TileFlutuante3",
+          "width": 0,
+          "x": 1667,
+          "y": -34,
+          "zOrder": 103,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "TileFlutuante3",
+          "width": 0,
+          "x": 637,
+          "y": -215,
+          "zOrder": 103,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 128,
+          "layer": "Game",
+          "locked": false,
+          "name": "TileFlutuante2",
+          "width": 249,
+          "x": 127,
+          "y": -419,
+          "zOrder": 102,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "TileFlutuante2",
+          "width": 0,
+          "x": 431,
+          "y": 103,
+          "zOrder": 102,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "TileFlutuante1",
+          "width": 0,
+          "x": 303.918,
+          "y": 102.929,
+          "zOrder": 101,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "TileFlutuante1",
+          "width": 0,
+          "x": 13,
+          "y": -418,
+          "zOrder": 101,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "TileFlutuante1",
+          "width": 0,
+          "x": 409,
+          "y": -217,
+          "zOrder": 101,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 128,
+          "layer": "Game",
+          "locked": false,
+          "name": "TileFlutuante2",
+          "width": 764,
+          "x": 919,
+          "y": -32,
+          "zOrder": 102,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 128,
+          "layer": "Game",
+          "locked": false,
+          "name": "TileFlutuante2",
+          "width": 3350,
+          "x": 981,
+          "y": -375,
+          "zOrder": 102,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "TileFlutuante3",
+          "width": 0,
+          "x": 4312,
+          "y": -378,
+          "zOrder": 201,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 209,
+          "y": 35,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 1455,
+          "y": -565,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 353,
+          "y": -27,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 506,
+          "y": -9,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 629,
+          "y": -75,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 728,
+          "y": -107,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 854,
+          "y": -157,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 674,
+          "y": -360,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 2317,
+          "y": -715,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 966,
+          "y": -543,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 1167,
+          "y": -569,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 778,
+          "y": -502,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 778,
+          "y": -502,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 778,
+          "y": -502,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 1694,
+          "y": -568,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 1940,
+          "y": -584,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 2094,
+          "y": -622,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Hud",
+          "locked": false,
+          "name": "Score",
+          "width": 0,
+          "x": 61,
+          "y": 48,
+          "zOrder": 203,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 2540,
+          "y": -653,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 2878,
+          "y": -569,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 3047,
+          "y": -543,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 3573,
+          "y": -485,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 3664,
+          "y": -498,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 3696,
+          "y": -550,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 3547,
+          "y": -621,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 3495,
+          "y": -550,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 3339,
+          "y": -186,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 3190,
+          "y": -141,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 2937,
+          "y": -173,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 2781,
+          "y": -186,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 2716,
+          "y": -173,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 2567,
+          "y": -154,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 2476,
+          "y": -115,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 2255,
+          "y": -63,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 599,
+          "y": -446,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 1995,
+          "y": -89,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 2047,
+          "y": -115,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 2164,
+          "y": -89,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 2424,
+          "y": -102,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 2827,
+          "y": -11,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 2970,
+          "y": -11,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 3061,
+          "y": -37,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 3295,
+          "y": -37,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 2366,
+          "y": -531,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 3366,
+          "y": -50,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 3424,
+          "y": -50,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 3651,
+          "y": -44,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 3774,
+          "y": -31,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 3891,
+          "y": -31,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 4073,
+          "y": -18,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 4372,
+          "y": 1,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 4450,
+          "y": -116,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 4547,
+          "y": -207,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 4677,
+          "y": -337,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 4515,
+          "y": -447,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 4560,
+          "y": -525,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 4430,
+          "y": -622,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 4521,
+          "y": -706,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 4385,
+          "y": -797,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 4216,
+          "y": -797,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 4190,
+          "y": -771,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 4047,
+          "y": -648,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 3781,
+          "y": -667,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 3541,
+          "y": -725,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 3301,
+          "y": -667,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 2918,
+          "y": -667,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 2691,
+          "y": -602,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 2652,
+          "y": -583,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 2535,
+          "y": -525,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 1612,
+          "y": -206,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 1534,
+          "y": -206,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 1164,
+          "y": -161,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 1216,
+          "y": -129,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 1008,
+          "y": -213,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 911,
+          "y": -271,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Moedas",
+          "width": 0,
+          "x": 742,
+          "y": -362,
+          "zOrder": 202,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "name": "Quik",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "acceleration": 1500,
+              "canGrabPlatforms": false,
+              "deceleration": 1500,
+              "gravity": 1200,
+              "ignoreDefaultControls": false,
+              "jumpSpeed": 1000,
+              "maxFallingSpeed": 1200,
+              "maxSpeed": 500,
+              "roundCoordinates": true,
+              "slopeMaxAngle": 60,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Idle__000.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 3,
+                          "y": 3
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Idle__001.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 3,
+                          "y": 3
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Idle__002.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 3,
+                          "y": 3
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Idle__003.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 3,
+                          "y": 3
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Idle__004.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 3,
+                          "y": 3
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Idle__005.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 3,
+                          "y": 3
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Idle__006.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 3,
+                          "y": 3
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Idle__007.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 3,
+                          "y": 3
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Idle__008.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 3,
+                          "y": 3
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Idle__009.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 3,
+                          "y": 3
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "walk",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.04,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Run__000.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 3,
+                          "y": 3
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Run__001.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 3,
+                          "y": 3
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Run__002.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 3,
+                          "y": 3
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Run__003.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 3,
+                          "y": 3
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Run__004.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 3,
+                          "y": 3
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Run__005.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 3,
+                          "y": 3
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Run__006.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 3,
+                          "y": 3
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Run__007.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 3,
+                          "y": 3
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Run__008.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 3,
+                          "y": 3
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Run__009.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 3,
+                          "y": 3
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "jump",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Jump__000.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 3,
+                          "y": 3
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Jump__001.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 3,
+                          "y": 3
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Jump__002.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 3,
+                          "y": 3
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Jump__003.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 3,
+                          "y": 3
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Jump__004.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 3,
+                          "y": 3
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Jump__005.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 3,
+                          "y": 3
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Jump__006.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 3,
+                          "y": 3
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Jump__007.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 3,
+                          "y": 3
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Jump__008.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 3,
+                          "y": 3
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Jump__009.png",
+                      "points": [
+                        {
+                          "name": "Point",
+                          "x": 3,
+                          "y": 3
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Ataque1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Attack__000.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Attack__001.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Attack__002.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Attack__003.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Attack__004.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Attack__005.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Attack__006.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Attack__007.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Attack__008.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Attack__009.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Ataque2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Slide__000.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Slide__001.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Slide__002.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Slide__003.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Slide__004.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Slide__005.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Slide__006.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Slide__007.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Slide__008.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\png\\Slide__009.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "height": 32,
+          "name": "TileBasico",
+          "tags": "",
+          "texture": "NewFile-1.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "height": 128,
+          "name": "Tile1",
+          "tags": "",
+          "texture": "Sprites\\telis\\png\\Tiles\\Tile (1).png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 128,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "height": 128,
+          "name": "Tile2",
+          "tags": "",
+          "texture": "Sprites\\telis\\png\\Tiles\\Tile (2).png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 128,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "height": 128,
+          "name": "tile3",
+          "tags": "",
+          "texture": "Sprites\\telis\\png\\Tiles\\Tile (3).png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 128,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "height": 128,
+          "name": "tile4",
+          "tags": "",
+          "texture": "Sprites\\telis\\png\\Tiles\\Tile (4).png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 128,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": false,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "height": 128,
+          "name": "Tile5",
+          "tags": "",
+          "texture": "Sprites\\telis\\png\\Tiles\\Tile (5).png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 128,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "height": 128,
+          "name": "Tile6",
+          "tags": "",
+          "texture": "Sprites\\telis\\png\\Tiles\\Tile (6).png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 128,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "acceleration": 1500,
+              "canGrabPlatforms": false,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": false,
+              "jumpSpeed": 600,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "roundCoordinates": true,
+              "slopeMaxAngle": 60,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "height": 128,
+          "name": "TileFlutuante1",
+          "tags": "",
+          "texture": "Sprites\\telis\\png\\Tiles\\Tile (14).png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 128,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "Jumpthru",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "height": 128,
+          "name": "TileFlutuante2",
+          "tags": "",
+          "texture": "Sprites\\telis\\png\\Tiles\\Tile (15).png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 128,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "Jumpthru",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "height": 128,
+          "name": "TileFlutuante3",
+          "tags": "",
+          "texture": "Sprites\\telis\\png\\Tiles\\Tile (16).png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 128,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "Jumpthru",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "height": 1143,
+          "name": "Background",
+          "tags": "",
+          "texture": "Sprites\\telis\\png\\BG.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 2000,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "name": "Moedas",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewObject",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "Score",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Score",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        }
+      ],
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Quik",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::IsOnFloor"
+              },
+              "parameters": [
+                "Quik",
+                "PlatformerObject"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlatformBehavior::IsMoving"
+                  },
+                  "parameters": [
+                    "Quik",
+                    "PlatformerObject"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Quik",
+                    "\"walk\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "",
+              "comment2": ""
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "PlatformBehavior::IsMoving"
+                  },
+                  "parameters": [
+                    "Quik",
+                    "PlatformerObject"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Quik",
+                    "\"idle\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "",
+              "comment2": ""
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Quik Ataque",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "v"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "FlippedX"
+              },
+              "parameters": [
+                "Quik"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "Quik",
+                "=",
+                "4"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "AddForceXY"
+              },
+              "parameters": [
+                "Quik",
+                "500",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "rasteira.wav",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "v"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "FlippedX"
+              },
+              "parameters": [
+                "Quik"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "Quik",
+                "=",
+                "4"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "AddForceXY"
+              },
+              "parameters": [
+                "Quik",
+                "-500",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "rasteira.wav",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Quik andando",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Right"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "FlipX"
+              },
+              "parameters": [
+                "Quik",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "FlipX"
+              },
+              "parameters": [
+                "Quik",
+                "yes"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Pulo",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::IsJumping"
+              },
+              "parameters": [
+                "Quik",
+                "PlatformerObject"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlatformBehavior::IsJumping"
+                  },
+                  "parameters": [
+                    "Quik",
+                    "PlatformerObject"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Quik",
+                    "\"jump\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "PlatformBehavior::IsJumping"
+                  },
+                  "parameters": [
+                    "Quik",
+                    "PlatformerObject"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Quik",
+                    "\"idle\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "pulo.wav",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Camera",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CentreCamera"
+              },
+              "parameters": [
+                "",
+                "Quik",
+                "no",
+                "\"Game\"",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Coin",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Quik",
+                "Moedas",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "Moedas",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Coin.wav",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "Score",
+                "+",
+                "10"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "Score",
+                "=",
+                "\"Score : \"+ ToString(Variable(Score))"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        }
+      ],
+      "layers": [
+        {
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        },
+        {
+          "name": "Game",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "name": "Background",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "name": "Hud",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior"
+        }
+      ]
+    }
+  ],
+  "externalEvents": [],
+  "eventsFunctionsExtensions": [],
+  "externalLayouts": [],
+  "externalSourceFiles": []
+}
